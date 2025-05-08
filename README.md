@@ -7,15 +7,15 @@ Dự án frontend cho **Vietnam Is Awesome**, được xây dựng bằng **Vue 
 ## Cấu trúc thư mục
 ```bash
 src/
-├── assets/         # Tệp tĩnh (hình ảnh, biểu tượng)
-├── components/     # Các component Vue tái sử dụng
-├── pages/          # Các trang chính tương ứng với route
-├── router/         # Cấu hình định tuyến Vue Router
-├── store/          # Pinia/Vuex (nếu sử dụng)
-├── services/       # Logic gọi API (axios, fetch,...)
-├── App.vue         # Component gốc
-├── main.js         # Điểm bắt đầu ứng dụng
-├── index.css       # Cấu hình Tailwind và style toàn cục
+├── assets/       
+├── components/  
+├── pages/          
+├── router/         
+├── store/          
+├── services/       
+├── App.vue       
+├── main.js         
+├── index.css       
 ```
 
 ## Getting Started
