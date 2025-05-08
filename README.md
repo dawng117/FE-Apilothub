@@ -26,9 +26,9 @@ git clone https://github.com/<your-username>/FE-Apilothub.git
 cd FE-Apilothub
 npm install
 npm run dev
-
+```
 ## 🤝 Gửi lời cảm ơn
 Cảm ơn Apilothub đã hướng dẫn và hỗ trợ mình trong quá trình thực tập và phát triển dự án.
 
 ## 📬 Liên hệ
-Kết nối với mình qua LinkedIn
+Kết nối với mình qua LinkedIn: https://www.linkedin.com/in/%C4%91%C4%83ng-hu%E1%BB%B3nh-7b9086363/
