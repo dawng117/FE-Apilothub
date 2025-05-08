@@ -6,15 +6,15 @@ Dự án frontend cho **Vietnam Is Awesome**, được xây dựng bằng **Vue 
 - Công nghệ sử dụng: Vue 3, Vite, Tailwind CSS, JavaScript.
 ## Cấu trúc thư mục
 src/
-├── assets/ 
-├── components/ 
-├── pages/ 
-├── router/ 
-├── stores/ 
-├── services/ 
-├── App.vue 
-├── main.js 
-├── index.css 
+├── assets/ # Tệp tĩnh (hình ảnh, biểu tượng)
+├── components/ # Các component Vue tái sử dụng
+├── pages/ # Các trang chính tương ứng với route
+├── router/ # Cấu hình định tuyến Vue Router
+├── store/ # Pinia/Vuex (nếu sử dụng)
+├── services/ # Logic gọi API (axios, fetch,...)
+├── App.vue # Component gốc
+├── main.js # Điểm bắt đầu ứng dụng
+├── index.css # Cấu hình Tailwind và style toàn cục
 ## Getting Started
 Clone the repository and install dependencies:
 
